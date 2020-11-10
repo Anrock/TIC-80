@@ -166,3 +166,5 @@ build/.local/
 build/*.dir/
 build/x64/
 build/linux/tic80.desktop
+.cache
+compile_commands.json
